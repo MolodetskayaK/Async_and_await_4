@@ -8,7 +8,7 @@ class Program
 {
     static async Task Main(string[] args)
     {
-        // Замени на реальный путь к твоей папке с файлами! (создай папку и добавь .txt файлы)
+       
         string folderPath = @"C:\Users\Cocosik\Documents\TestFolder";
 
         try
@@ -78,4 +78,5 @@ class Program
         string content = File.ReadAllText(filePath);
         return content.Count(c => c == ' ');
     }
+
 }
