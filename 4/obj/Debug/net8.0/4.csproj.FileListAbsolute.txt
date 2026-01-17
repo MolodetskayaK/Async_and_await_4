@@ -1,0 +1,14 @@
+C:\Users\Cocosik\Documents\4\4\obj\Debug\net8.0\4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cocosik\Documents\4\4\obj\Debug\net8.0\4.AssemblyInfoInputs.cache
+C:\Users\Cocosik\Documents\4\4\obj\Debug\net8.0\4.AssemblyInfo.cs
+C:\Users\Cocosik\Documents\4\4\obj\Debug\net8.0\4.csproj.CoreCompileInputs.cache
+C:\Users\Cocosik\Documents\4\4\bin\Debug\net8.0\4.exe
+C:\Users\Cocosik\Documents\4\4\bin\Debug\net8.0\4.deps.json
+C:\Users\Cocosik\Documents\4\4\bin\Debug\net8.0\4.runtimeconfig.json
+C:\Users\Cocosik\Documents\4\4\bin\Debug\net8.0\4.dll
+C:\Users\Cocosik\Documents\4\4\bin\Debug\net8.0\4.pdb
+C:\Users\Cocosik\Documents\4\4\obj\Debug\net8.0\4.dll
+C:\Users\Cocosik\Documents\4\4\obj\Debug\net8.0\refint\4.dll
+C:\Users\Cocosik\Documents\4\4\obj\Debug\net8.0\4.pdb
+C:\Users\Cocosik\Documents\4\4\obj\Debug\net8.0\4.genruntimeconfig.cache
+C:\Users\Cocosik\Documents\4\4\obj\Debug\net8.0\ref\4.dll
